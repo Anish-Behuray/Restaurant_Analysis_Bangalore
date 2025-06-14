@@ -32,8 +32,8 @@ We have designed a **Power BI report** that showcases:
 ✅ Location-wise recommendations for new restaurants  
 
 👉 **Example snapshot:**  
-![Power BI Dashboard](![Screenshot 2025-06-13 140323](https://github.com/user-attachments/assets/37c3e6ee-d0f3-4225-bb18-0c4a9803ee6a)
-)
+![Screenshot 2025-06-13 140323](https://github.com/user-attachments/assets/37c3e6ee-d0f3-4225-bb18-0c4a9803ee6a)
+
 
 ---
 
@@ -51,7 +51,7 @@ This report was created to help investors, entrepreneurs, and restaurant owners 
 ## 📥 Dataset
 
 📌 The dataset used for this project is large and not hosted on GitHub.  
-👉 [**Click here to access the dataset**]([YOUR_DATASET_LINK_HERE](https://drive.google.com/file/d/11D4pV8DTKeaVy8R1bDFbooBBadAR0erz/view?usp=drive_link))
+👉 [**Click here to access the dataset**](https://drive.google.com/file/d/11D4pV8DTKeaVy8R1bDFbooBBadAR0erz/view?usp=drive_link)
 
  
 ---
