@@ -67,8 +67,8 @@ In this project, I combined my skills in Python, Power BI, and data analysis to 
 Feel free to connect with me:
 
 - 📧 Email: anishbehuray@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anish-behuray) *(replace with your actual link if needed)*  
-- 🌟 [GitHub](https://github.com/anishbehuray) *(replace if your username differs)*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anish-behuray-10a672222/)
+- 📞 +91 7855 8277 83 
 
 ---
 
